@@ -1,6 +1,6 @@
 edition = "2023";
 
-package UFilterPickerProxyAPI.V1;
+package UFilterPickerMessageStoreAPI.V1;
 
 /*!
  * Summarizes the send statistics of publishers.  Receipt of this message
