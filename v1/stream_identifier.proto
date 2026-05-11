@@ -1,9 +1,9 @@
 edition = "2023";
 
-package UFilterPickerMessageStoreAPI.V1;
+package UFilterPickerPickBrokerAPI.V1;
 
 /*!
- * A data stream identification on which the pick was made.  The identifier
+ * The data stream identification on which the pick was made.  The identifier
  * consists of a network code, staiton name, channel code, and location code.
  */
 message StreamIdentifier {
